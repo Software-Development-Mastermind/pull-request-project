@@ -16,7 +16,7 @@ $ git remote add original https://github.com/username/project-name.git
  ```
 
  6. Open the newly cloned project in your favorite code editor
- 7. Make the changes to the code (in this project that means adding your message and name below!)
+ 7. Make the changes to the code (in this project that means adding your message to the `MESSAGES.md` file)
  8. Create a new commit
 
 ```shell
@@ -27,13 +27,3 @@ $ git commit -m "Your commit message goes here"
  10. Open a pull request from your forked GitHub repository page
  11. Fill out a title and description
  12. Submit your pull request and celebrate!
-
-## Add your message below!
-"Hello world!"
--John D. 
-
-"This is my commit"
--Jane D.
-
-"Leave your message below"
--Andy S.
